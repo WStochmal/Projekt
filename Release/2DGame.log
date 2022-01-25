@@ -1,0 +1,17 @@
+﻿  2DGame.cpp
+C:\Users\stoch\source\repos\2DGame\2DGame.cpp(108,2): warning C4091: "typedef ": zignorowano na lewo od "MenuGameBlocks" podczas gdy brak deklaracji zmiennej
+C:\Users\stoch\source\repos\2DGame\2DGame.cpp(354,25): warning C4101: "keystate": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\stoch\source\repos\2DGame\2DGame.cpp(488,24): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\stoch\source\repos\2DGame\2DGame.cpp(495,24): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\stoch\source\repos\2DGame\2DGame.cpp(502,24): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\stoch\source\repos\2DGame\2DGame.cpp(516,23): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\stoch\source\repos\2DGame\2DGame.cpp(787,8): warning C4101: "recived": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\stoch\source\repos\2DGame\2DGame.cpp(807,29): warning C4101: "klient": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\stoch\source\repos\2DGame\2DGame.cpp(1489,6): warning C4101: "random": lokalna zmienna, do której nie istnieje odwołanie
+LINK : warning LNK4098: domyślna biblioteka „LIBCMT” powoduje konflikt z innymi bibliotekami; użyj opcji /NODEFAULTLIB:biblioteka
+  Trwa generowanie kodu
+  0 of 293 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  2DGame.vcxproj -> C:\Users\stoch\source\repos\2DGame\x64\Release\2DGame.exe
